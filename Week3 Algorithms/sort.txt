@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort is better in sorted numbers than Selection sort
+
+sort2 uses: Merge sort
+
+How do you know?: It's the fastest algorithm to solve the sort problem of the random numbers
+
+sort3 uses: Selection sort
+
+How do you know?: Bubble sort is better in sorted numbers than Selection sort
